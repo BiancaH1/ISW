@@ -27,11 +27,7 @@
       <p class="artist"></p>
     </div>
 
-    <div class="slider_container">
-      <i class="fa fa-volume-down"></i>
-       <input type="range" min="1" max="100" value="99" class="volume_slider" onchange="setVolume()">
-       <i class="fa fa-volume-up"></i>
-  </div>
+    
 
 
     <div class="progress-area">
@@ -44,6 +40,8 @@
       </div>
     </div>
     <div class="controls">
+    
+
       <i id="repeat-plist" class="material-icons" title="Playlist looped">repeat</i>
       <i id="prev" class="material-icons">skip_previous</i>
       <div class="play-pause">

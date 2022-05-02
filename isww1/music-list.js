@@ -2,37 +2,37 @@ let allMusic = [
   {
     name: "Harley Bird - Home",
     artist: "Jordan Schor",
-    img: "music-1",
-    src: "music-1"
+    img: "Harley Bird - Home",
+    src: "Harley Bird - Home"
   },
   {
     name: "Ikson Anywhere – Ikson",
     artist: "Audio Library",
-    img: "music-2",
-    src: "music-2"
+    img: "Ikson Anywhere – Ikson",
+    src: "Ikson Anywhere – Ikson"
   },
   {
     name: "Beauz & Jvna - Crazy",
     artist: "Beauz & Jvna",
-    img: "music-3",
-    src: "music-3"
+    img: "Beauz & Jvna - Crazy",
+    src: "Beauz & Jvna - Crazy"
   },
   {
     name: "Hardwind - Want Me",
     artist: "Mike Archangelo",
-    img: "music-4",
-    src: "music-4"
+    img: "Hardwind - Want Me",
+    src: "Hardwind - Want Me"
   },
   {
     name: "Jim - Sun Goes Down",
     artist: "Jim Yosef x Roy",
-    img: "music-5",
-    src: "music-5"
+    img: "Jim - Sun Goes Down",
+    src: "Jim - Sun Goes Down"
   },
   {
     name: "Lost Sky - Vision NCS",
     artist: "NCS Release",
-    img: "music-6",
-    src: "music-6"
+    img: "Lost Sky - Vision NCS",
+    src: "Lost Sky - Vision NCS"
   },
 ];

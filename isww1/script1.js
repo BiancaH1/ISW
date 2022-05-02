@@ -7,6 +7,11 @@ let playpause_btn = document.querySelector('.playpause-track');
 let next_btn = document.querySelector('.next-track');
 let prev_btn = document.querySelector('.prev-track');
 
+
+
+
+
+
 let seek_slider = document.querySelector('.seek_slider');
 let volume_slider = document.querySelector('.volume_slider');
 let curr_time = document.querySelector('.current-time');
@@ -151,7 +156,9 @@ function seekTo(){
 }
 function setVolume(){
     curr_track.volume = volume_slider.value / 100;
+    
 }
+
 function setUpdate(){
     let seekPosition = 0;
     if(!isNaN(curr_track.duration)){
